@@ -17,6 +17,3 @@
 | package-lock.json                  |versionของdependencyที่ใช้   |
 
 
-## License
-
-[MIT](LICENSE)
